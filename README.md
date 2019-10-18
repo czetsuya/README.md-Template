@@ -36,7 +36,7 @@ Long description.
 * **Edward P. Legaspi** - *Architect* - [czetsuya](https://bitbucket.com/czetsuya)
 
 # URLs
- * https://bitbucket.com/czetsuya
+ * https://github.com/czetsuya
 
 # Release History
 
